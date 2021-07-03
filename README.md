@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________
 **************************************************************************************************************
-![pngjoy com_ladybug-clipart-clip-art-lady-bug-transparent-png_2402434](https://user-images.githubusercontent.com/84382544/124351069-8c368180-dc0d-11eb-966a-17028b68bea7.png)
+![Snake](https://user-images.githubusercontent.com/84382544/124351185-1e3e8a00-dc0e-11eb-90e5-b0f0abfbeff9.png)
 
 1. Clone the repository:
 
@@ -64,7 +64,6 @@ ________________________________________________________________________________
 Contrls = Use <kbd>K_Enter</kbd> or <kbd>Dedicated Button</kbd> key to play.Use <kbd>K_left</kbd> or <kbd>K_right</kbd> To move the bug
                      and <kbd>Esc</kbd> or <kbd>Exit</kbd> to Exit the game.
                      
-![test_python_icon_131931](https://user-images.githubusercontent.com/84382544/124351057-77f28480-dc0d-11eb-8d95-7f949863b1d2.png)
 
 ***Be sure to watch the video**
 
