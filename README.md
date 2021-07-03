@@ -85,6 +85,6 @@ Line by line of codes This game was written by *[Mohammad Reza]* himself
 ![Pygame_Text1](https://user-images.githubusercontent.com/84382544/124351310-dcfaaa00-dc0e-11eb-8fdf-d5aee7842e88.png)
 
 
-If you enjoyed the game or wanted to comment, I will be happy to send it to the following address
+If you enjoyed the game or wanted to comment, I will be happy to Set a *** Star *** for the repository
 
-***Thanks for your choise**
+*Thanks for your choise*
