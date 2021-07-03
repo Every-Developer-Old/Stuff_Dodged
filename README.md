@@ -1,2 +1,91 @@
 # Stuff_Dodged
-Python Game Development - Stuff Dodged is a fascinating and exciting game - (Create with Pygame 2.0.1)
+
+Python Game Development - Create Stuff Dodged with Pygame 2.0.1
+
+Stuff Dodged Update june 2021 (4.5.0)
+
+Company:Every Developer  
+
+Developer >>> MohammadReza.D
+=================================================================
+
+![document-bug](https://user-images.githubusercontent.com/84382544/124350741-ad966e00-dc0b-11eb-9348-e20c0d8f7e14.png)
+
+A Stuff Dodged clone made using [python-pygame][pygame]
+
+Programming language >>> [Python_3.9.5]
+Game library  ...... >>> [Pygame_2.0.1]
+
+Reccomended for <Windows , Macos , Linux>
+____________________________________________________
+install Pygame :
+
+```bash
+pip install pygame
+```
+
+For Convert Python files to EXE files install :
+
+```bash
+pip install pyinstaller
+```
+______________________________________________________________________________________________________________
+**************************************************************************************************************
+
+1. Install Python 3.9.0 (Reccomended <Python 3.9.5> or later) for Windows 10 from >>>
+[here](https://www.python.org/downloads/) [***Note that Python 3.9.x cannot be used on Windows 7 or earlier**]
+
+2. Install Python 3.7.0 (Reccomended <Python 3.8.0>)for Windows 7 or earlier from >>>
+[here](https://www.python.org/downloads/)
+
+3. Install PyGame 1.9.x (Reccomended Pygame 2.0.1 or later) from >>>
+[here](http://www.pygame.org/download.shtml)
+
+______________________________________________________________________________________________________________
+**************************************************************************************************************
+![pngjoy com_ladybug-clipart-clip-art-lady-bug-transparent-png_2402434](https://user-images.githubusercontent.com/84382544/124351069-8c368180-dc0d-11eb-966a-17028b68bea7.png)
+
+1. Clone the repository:
+
+   ```bash
+   $ git clone https://github.com/Every-Developer/Stuff_Dodged
+   ```
+
+   or download as zip and extract.
+
+1. In the root directory run
+
+   ```bash
+   $ pipenv install
+   $ pipenv run Stuff_Dodged.exe
+   $ pipenv run My_name.exe
+   ```
+
+Contrls = Use <kbd>K_Enter</kbd> or <kbd>Dedicated Button</kbd> key to play.Use <kbd>K_left</kbd> or <kbd>K_right</kbd> To move the bug
+                     and <kbd>Esc</kbd> or <kbd>Exit</kbd> to Exit the game.
+                     
+![test_python_icon_131931](https://user-images.githubusercontent.com/84382544/124351057-77f28480-dc0d-11eb-8d95-7f949863b1d2.png)
+
+***Be sure to watch the video**
+
+
+Notable forks
+-------------
+The logic of the game is designed so that the bird is seemingly stationary and
+the pipes move towards it. The distance between the pipes is always constant.
+
+With any collision with object or Walls you will lose.
+Try to break your previous record every time!!!
+
+Line by line of codes This game was written by *[Mohammad Reza]* himself
+
+
+[Python]: https://www.python.org
+[pygame]: http://www.pygame.org
+
+![Pygame_Text_2](https://user-images.githubusercontent.com/84382544/124351085-a2444200-dc0d-11eb-92f0-71ec4f1b9976.png)
+
+
+If you enjoyed the game or wanted to comment, I will be happy to send it to the following address
+
+***Thanks for your choise**
