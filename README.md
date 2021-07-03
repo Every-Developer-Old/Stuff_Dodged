@@ -43,7 +43,7 @@ ________________________________________________________________________________
 
 ______________________________________________________________________________________________________________
 **************************************************************************************************************
-![Snake](https://user-images.githubusercontent.com/84382544/124351185-1e3e8a00-dc0e-11eb-90e5-b0f0abfbeff9.png)
+![Snake](https://user-images.githubusercontent.com/84382544/124351267-9442f100-dc0e-11eb-91fc-893a90f35ee3.png)
 
 1. Clone the repository:
 
@@ -82,7 +82,7 @@ Line by line of codes This game was written by *[Mohammad Reza]* himself
 [Python]: https://www.python.org
 [pygame]: http://www.pygame.org
 
-![Pygame_Text_2](https://user-images.githubusercontent.com/84382544/124351085-a2444200-dc0d-11eb-92f0-71ec4f1b9976.png)
+![Pygame_Text1](https://user-images.githubusercontent.com/84382544/124351310-dcfaaa00-dc0e-11eb-8fdf-d5aee7842e88.png)
 
 
 If you enjoyed the game or wanted to comment, I will be happy to send it to the following address
