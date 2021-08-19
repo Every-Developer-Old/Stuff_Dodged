@@ -11,12 +11,11 @@ Developer >>> MohammadReza.D
 
 ![document-bug](https://user-images.githubusercontent.com/84382544/124350741-ad966e00-dc0b-11eb-9348-e20c0d8f7e14.png)
 
-A Stuff Dodged clone made using [python-pygame][pygame]
+a Stuff Dodged clone made using [python-pygame][pygame]
 
 Programming language >>> [Python_3.9.5]
 Game library  ...... >>> [Pygame_2.0.1]
 
-Reccomended for <Windows , Macos , Linux>
 ____________________________________________________
 install Pygame :
 
@@ -24,7 +23,7 @@ install Pygame :
 pip install pygame
 ```
 
-For Convert Python files to EXE files install :
+For convert Python files to EXE files install :
 
 ```bash
 pip install pyinstaller
@@ -38,7 +37,7 @@ ________________________________________________________________________________
 2. Install Python 3.7.0 (Reccomended <Python 3.8.0>)for Windows 7 or earlier from >>>
 [here](https://www.python.org/downloads/)
 
-3. Install PyGame 1.9.x (Reccomended Pygame 2.0.1 or later) from >>>
+3. Install Pygame 1.9.x (Reccomended Pygame 2.0.1 or later) from >>>
 [here](http://www.pygame.org/download.shtml)
 
 ______________________________________________________________________________________________________________
