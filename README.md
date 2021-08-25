@@ -66,7 +66,7 @@ Contrls = Use <kbd>K_Enter</kbd> or <kbd>Dedicated Button</kbd> key to play.Use 
 ***Be sure to watch the video**
 
 
-Notable forks
+Notes
 -------------
 The logic of the game is designed so that the bird is seemingly stationary and
 the pipes move towards it. The distance between the pipes is always constant.
