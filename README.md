@@ -47,7 +47,7 @@ ________________________________________________________________________________
 1. Clone the repository:
 
    ```bash
-   $ git clone https://github.com/Every-Developer/Stuff_Dodged
+   $ gh repo clone Every-Developer/Stuff_Dodged
    ```
 
    or download as zip and extract.
