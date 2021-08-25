@@ -47,7 +47,7 @@ ________________________________________________________________________________
 1. Clone the repository:
 
    ```bash
-   $ gh repo clone Every-Developer/Stuff_Dodged
+   gh repo clone Every-Developer/Stuff_Dodged
    ```
 
    or download as zip and extract.
@@ -55,9 +55,8 @@ ________________________________________________________________________________
 1. In the root directory run
 
    ```bash
-   $ pipenv install
-   $ pipenv run Stuff_Dodged.exe
-   $ pipenv run My_name.exe
+   pipenv run Stuff_Dodged.exe
+   pipenv run My_name.exe
    ```
 
 Contrls = Use <kbd>K_Enter</kbd> or <kbd>Dedicated Button</kbd> key to play.Use <kbd>K_left</kbd> or <kbd>K_right</kbd> To move the bug
